@@ -1,2 +1,3 @@
 # starter
-Starter project to understand the Git capabilities
+Starter project to study and practice engineering concepts
+Workspace to implement the learnings and proof of concept
